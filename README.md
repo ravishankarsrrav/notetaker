@@ -1,2 +1,2 @@
 # notetaker
-note taking command tool tool
+note taking command utility
